@@ -1,2 +1,2 @@
 # OSLab
- Operating System Lab course
+ Operating Systems Lab course
